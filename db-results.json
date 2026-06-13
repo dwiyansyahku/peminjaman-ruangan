@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Pooler tx ap-1",
+    "status": "FAIL",
+    "error": "Tenant or user not found"
+  },
+  {
+    "name": "Pooler tx ap-2",
+    "status": "FAIL",
+    "error": "Tenant or user not found"
+  },
+  {
+    "name": "Pooler tx pooler.supabase.com",
+    "status": "FAIL",
+    "error": "getaddrinfo ENOTFOUND pooler.supabase.com"
+  }
+]
